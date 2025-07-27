@@ -1,5 +1,9 @@
 {
   "name": "@deno/fresh",
+  "license": "MIT",
+  "scripts": {
+    "demo": "vite demo"
+  },
   "dependencies": {
     "@babel/core": "^7.28.0"
   },
