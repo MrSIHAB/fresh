@@ -6,6 +6,12 @@
     "image": "jsr"
   },
   {
+    "title": "MrSIHAB - Portfolio",
+    "link": "https://sihab.deno.dev",
+    "github": "mrsihab/fresh-portfolio",
+    "image": "MrSIHAB"
+  },
+  {
     "title": "Deno.com",
     "link": "https://deno.com/",
     "image": "deno"
